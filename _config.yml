@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "cangeloni.github.io"
+title                    : "Chris Angeloni"
 title_separator          : "-"
 name                     : &name "Chris Angeloni"
 description              : &description "PhD student at University of Pennsylvania"
