@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Homebrewing"
+title: "On Tap"
 permalink: /beer/
 author_profile: true
 ---
