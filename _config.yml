@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Chris Angeloni"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "PhD Student studying auditory neuroscience using a combination of behavior, chronic recordings and optogenetics. I also like making beer and art."
+  location         : "Philadelphia, Pennsylvania"
+  employer         : "University of Pennsylvania"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Z0eqlVUAAAAJ&view_op=list_works&gmla=AJsN-F72K0vaO3FM6oYZRxwU6HiyHB48Xvc0jvC3dg3dAS2fZoKJBhP_ty7zIDOTl9K2ZjElMpSvn7e9-6xEtTrHzi7Z-2ipIkrlhUh6txSbzLyOxJxWNz4"
+  email            : "chris.angeloni@gmail.com
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
