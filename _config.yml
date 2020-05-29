@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chris Angeloni"
   avatar           : "profile.png"
-  bio              : "PhD Student studying auditory neuroscience using a combination of behavior, chronic recordings and optogenetics. I also like making beer and art."
+  bio              : "PhD Student studying auditory neuroscience. I also like making beer and art."
   location         : "Philadelphia, Pennsylvania"
   employer         : "University of Pennsylvania"
   pubmed           : 
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
