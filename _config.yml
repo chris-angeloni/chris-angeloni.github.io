@@ -86,7 +86,7 @@ author:
   location         : "Philadelphia, Pennsylvania"
   employer         : "University of Pennsylvania"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Z0eqlVUAAAAJ&view_op=list_works&gmla=AJsN-F72K0vaO3FM6oYZRxwU6HiyHB48Xvc0jvC3dg3dAS2fZoKJBhP_ty7zIDOTl9K2ZjElMpSvn7e9-6xEtTrHzi7Z-2ipIkrlhUh6txSbzLyOxJxWNz4"
+  googlescholar    : "https://scholar.google.com"
   email            : "chris.angeloni@gmail.com"
   researchgate     : 
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/chris-angeloni"
   google_plus      :
   keybase          :
   instagram        :
