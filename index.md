@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /about
+permalink: /
 redirect-from:
   - /about/
   - /about.HTML
