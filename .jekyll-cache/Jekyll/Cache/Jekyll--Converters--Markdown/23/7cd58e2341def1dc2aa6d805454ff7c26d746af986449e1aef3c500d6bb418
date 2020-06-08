@@ -1,0 +1,63 @@
+I"<p>This example shows how to include several galleries into one page. Also notice that some captions have been set.</p>
+
+<div id="image-gallery-1" class="image-gallery">
+  <div id="gallery-sizer-1" class="gallery-sizer"></div>
+  
+</div>
+
+<script>
+$(document).ready(function() {
+  var $gallery1 = $("#image-gallery-1").lightGallery({
+    thumbnail: false,
+    selector: '.image'
+  });
+});
+
+// init isotope
+var $grid1 = $('#image-gallery-1').isotope({
+  percentPosition: true,
+  columnWidth: '#gallery-sizer-1',
+  itemSelector: '.image-wrapper',
+  layoutMode: "masonry"
+});
+
+// layout Isotope after each image loads
+$grid1.imagesLoaded().progress( function() {
+  $grid1.masonry();
+});
+
+</script>
+
+<p>The pictures from part two:</p>
+
+<div id="image-gallery-2" class="image-gallery">
+  <div id="gallery-sizer-2" class="gallery-sizer"></div>
+  
+</div>
+
+<script>
+$(document).ready(function() {
+  var $gallery2 = $("#image-gallery-2").lightGallery({
+    thumbnail: false,
+    selector: '.image'
+  });
+});
+
+// init isotope
+var $grid2 = $('#image-gallery-2').isotope({
+  percentPosition: true,
+  columnWidth: '#gallery-sizer-2',
+  itemSelector: '.image-wrapper',
+  layoutMode: "masonry"
+});
+
+// layout Isotope after each image loads
+$grid2.imagesLoaded().progress( function() {
+  $grid2.masonry();
+});
+
+</script>
+
+<p>This is an example gallery. All images licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA license</a>. Check the <a href="https://github.com/opieters/jekyll-gallery-example">Git Repo</a> for a copy of this license.</p>
+
+:ET

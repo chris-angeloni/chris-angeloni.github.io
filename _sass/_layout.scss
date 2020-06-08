@@ -142,8 +142,8 @@
 }
 
 .footer-col-wrapper {
-    font-size: 15px;
-    color: $grey-color;
+    font-size: $base-font-size;
+    color: $grey-color-light;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -167,6 +167,7 @@
 .footer-col-3 {
     width: -webkit-calc(33% - (#{$spacing-unit} / 2));
     width:         calc(33% - (#{$spacing-unit} / 2));
+    text-align: right;
 }
 
 @include media-query($on-laptop) {
@@ -281,7 +282,7 @@
 @include media-query($on-palm) {
     .about-profile {
         float: none;
-        text-align: left;
+        text-align: center;
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
