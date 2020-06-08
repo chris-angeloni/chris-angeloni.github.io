@@ -2,7 +2,7 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.url }}/about" style="color:#111">{{ site.title }} </a>
+    <a class="site-title" href="{{ site.url }}" style="color:#111">{{ site.title }} </a>
 
     <div class="site-contact">
 
@@ -38,6 +38,12 @@
       </a>
 
       <div class="trigger">
+        <a class="page-link" href="{{ site.url }}{{ site.baseurl }}">About</a>
+        <a class="page-link" href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a>
+        <a class="page-link" href="{{ site.url }}{{ site.baseurl }}/art">Art</a>
+        <a class="page-link" href="{{ site.url }}{{ site.baseurl }}/beer">On Tap</a>
+
+        <!--
         {% for my_page in site.pages %}
           {% if my_page.title %}
           {% if my_page.no_menu_item %}
@@ -46,6 +52,7 @@
           {% endif %}
           {% endif %}
         {% endfor %}
+        -->
       </div>
     </nav>
 
