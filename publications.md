@@ -9,7 +9,7 @@ redirect-from:
 
 ### 2020
 
-Katherine C. Wood, **Christopher Angeloni**, Karmi Oxman, Claudia Clopath & Maria N. Geffen. Neuronal activity in sensory cortex predicts the specificity of learning. *bioRxiv* 2020.06.02.128702. (2020)<br/>[[pdf]({{baseurl}}/assets/2020-06-02_neuronal-activity-in-sensory-cortex-predicts-the-specificity-of-learning.pdf), [biorxiv](https://www.biorxiv.org/content/10.1101/2020.06.02.128702v1.abstract)]
+Katherine C. Wood, **Christopher Angeloni**, Karmi Oxman, Claudia Clopath & Maria N. Geffen. Neuronal activity in sensory cortex predicts the specificity of learning. *bioRxiv* 2020.06.02.128702. (2020)<br/>[[pdf]({{baseurl}}/assets/publications/2020-06-02_neuronal-activity-in-sensory-cortex-predicts-the-specificity-of-learning.pdf), [biorxiv](https://www.biorxiv.org/content/10.1101/2020.06.02.128702v1.abstract)]
 
 ### 2019
 
@@ -22,7 +22,7 @@ Richard F. Betzel, Katherine C. Wood, **Christopher Angeloni**, Maria N. Geffen 
 
 ### 2014
 
-Elizabeth S. Lorenc, Michael S. Pratte, **Christopher Angeloni** & Frank Tong. Expertise for upright faces improves the precision but not the capacity of visual working memory. *Attention, Perception and Psychophysics* 76, 1975–1984. https://doi.org/10.3758/s13414-014-0653-z. (2014)<br/>[[pdf]({{baseurl}}/assets/2014-03-14_expertise_for_upright_faces_improves_the_precision_but_not_the_capacity_of_visual_working_memory), [ap&p](https://link.springer.com/article/10.3758/s13414-014-0653-z)]
+Elizabeth S. Lorenc, Michael S. Pratte, **Christopher Angeloni** & Frank Tong. Expertise for upright faces improves the precision but not the capacity of visual working memory. *Attention, Perception and Psychophysics* 76, 1975–1984. https://doi.org/10.3758/s13414-014-0653-z. (2014)<br/>[[pdf]({{baseurl}}/assets/publications/2014-03-14_expertise_for_upright_faces_improves_the_precision_but_not_the_capacity_of_visual_working_memory.pdf), [ap&p](https://link.springer.com/article/10.3758/s13414-014-0653-z)]
 
 
 ### 2012
