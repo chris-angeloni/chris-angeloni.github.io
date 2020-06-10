@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 redirect-from:
-  - /about/
+  - /about
   - /about.HTML
   - /
 ---
