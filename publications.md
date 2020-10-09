@@ -7,7 +7,7 @@ redirect-from:
   - /publications.HTML
 ---
 
- [Google Scholar](site.googlescholar)
+ [Google Scholar]({{site.googlescholar}})
 
 ### 2020
 
