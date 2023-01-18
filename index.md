@@ -10,7 +10,9 @@ redirect-from:
 
 I am a post-doctoral researcher in [Dan Dombeck](http://www.dombecklab.org/)'s lab collaborating with [Malcolm MacIver](https://maciverlab.github.io/) to study how mice plan in the face of a dynamic predator robot.
 
-I was a Ph.D. student at the University of Pennsylvania, where I study auditory neuroscience in [Maria Geffen](https://www.med.upenn.edu/hearing/)'s lab where I studied how efficient neural codes in the brain impact our ability to hear sounds. In my free time, I make [art]({{ site.url }}//art), [beer]({{ site.url }}//beer) and ride/work on bikes.
+I was a Ph.D. student at the University of Pennsylvania in [Maria Geffen](https://www.med.upenn.edu/hearing/)'s lab where I studied how efficient neural codes in the brain impact our ability to hear sounds.
+
+In my free time, I make [art]({{ site.url }}//art), [beer]({{ site.url }}//beer) and ride/work on bikes.
 
 <h2> News </h2>
 *2021.11.04* -- Come to APAN (poster 94) and SfN (poster P443.02), where I am presenting a [poster]({{site.url}}/assets/publications/apan_poster.pdf) on the role of efficient coding in perception.
