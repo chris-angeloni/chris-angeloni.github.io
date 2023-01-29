@@ -8,7 +8,7 @@ redirect-from:
   - /
 ---
 
-I am a post-doctoral researcher in [Dan Dombeck](http://www.dombecklab.org/)'s lab collaborating with [Malcolm MacIver](https://maciverlab.github.io/) to study how mice plan in the face of a dynamic predator robot.
+I am a post-doctoral researcher in [Dan Dombeck](http://www.dombecklab.org/)'s lab collaborating with [Malcolm MacIver](https://maciverlab.github.io/) to study how mice plan in the presence of a dynamic predator robot.
 
 I was a Ph.D. student at the University of Pennsylvania in [Maria Geffen](https://www.med.upenn.edu/hearing/)'s lab where I studied how efficient neural codes in the brain impact our ability to hear sounds.
 
