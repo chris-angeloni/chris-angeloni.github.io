@@ -11,16 +11,16 @@ redirect-from:
 
 ### 2023
 
-**C.F. Angeloni**, W.F. Mlynarski, E. Piasini, A.M. Williams, K.C. Wood, L. Garami, A. Hermundstad & M.N. Geffen. (2023) Cortical efficient coding dynamics shape behavioral performance . *bioRxiv* 2021.08.11.455845. *under review.* <br/>[[pdf]({{baseurl}}/assets/publications/Ange23a.pdf){:target="_blank"}, [natcomm](https://www.nature.com/articles/s41467-023-40477-6){:target="_blank"}]
+**C.F. Angeloni**, W.F. Mlynarski, E. Piasini, A.M. Williams, K.C. Wood, L. Garami, A. Hermundstad & M.N. Geffen. (2023) Cortical efficient coding dynamics shape behavioral performance . *Nature Communications.* <br/>[[pdf]({{baseurl}}/assets/publications/Ange23a.pdf){:target="_blank"}, [natcomm](https://www.nature.com/articles/s41467-023-40477-6){:target="_blank"}]
 
-A.M. Williams, **C.F. Angeloni** & M.N. Geffen. (2023) Sound improves visual orientation coding in the primary visual cortex. *Journal of Neuroscience* <br/>[[pdf]({{baseurl}}/assets/publications/Will23a.pdf){:target="_blank"}, [jneuro](https://www.jneurosci.org/content/43/16/2885.abstract){:target="_blank"}]
+A.M. Williams, **C.F. Angeloni** & M.N. Geffen. (2023) Sound improves visual orientation coding in the primary visual cortex. *Journal of Neuroscience.* <br/>[[pdf]({{baseurl}}/assets/publications/Will23a.pdf){:target="_blank"}, [jneuro](https://www.jneurosci.org/content/43/16/2885.abstract){:target="_blank"}]
 
 
 ### 2022
 
-A.M.H. Lesicko, **C.F. Angeloni**, J.M. Blackwell, M. Di Biasi & M.N. Geffen. (2022) Cortico-fugal regulation of predictive coding. *eLife* <br/>[[pdf]({{baseurl}}/assets/publications/Lesi22a.pdf){:target="_blank"}, [elife](https://elifesciences.org/articles/73289){:target="_blank"}]
+A.M.H. Lesicko, **C.F. Angeloni**, J.M. Blackwell, M. Di Biasi & M.N. Geffen. (2022) Cortico-fugal regulation of predictive coding. *eLife.* <br/>[[pdf]({{baseurl}}/assets/publications/Lesi22a.pdf){:target="_blank"}, [elife](https://elifesciences.org/articles/73289){:target="_blank"}]
 
-K.C. Wood, **C.F. Angeloni**, K. Oxman, C. Clopath & M.N. Geffen. (2022) Neuronal activity in sensory cortex predicts the specificity of learning in mice. *Nature Communications*  <br/>[[pdf]({{baseurl}}/assets/publications/Wood22a.pdf){:target="_blank"}, [natcomm](https://www.nature.com/articles/s41467-022-28784-w){:target="_blank"}]
+K.C. Wood, **C.F. Angeloni**, K. Oxman, C. Clopath & M.N. Geffen. (2022) Neuronal activity in sensory cortex predicts the specificity of learning in mice. *Nature Communications.*  <br/>[[pdf]({{baseurl}}/assets/publications/Wood22a.pdf){:target="_blank"}, [natcomm](https://www.nature.com/articles/s41467-022-28784-w){:target="_blank"}]
 
 ### 2019
 
