@@ -13,7 +13,7 @@ redirect-from:
 
 **C.F. Angeloni**, W.F. Mlynarski, E. Piasini, A.M. Williams, K.C. Wood, L. Garami, A. Hermundstad & M.N. Geffen. (2023) Dynamics of cortical contrast adaptation predict perception of signals in noise. *Nature Communications.* <br/>[[pdf]({{baseurl}}/assets/publications/Ange23a.pdf){:target="_blank"}, [natcomm](https://www.nature.com/articles/s41467-023-40477-6){:target="_blank"}]
 
-A.M. Williams, **C.F. Angeloni** & M.N. Geffen. (2023) Sound improves visual orientation coding in the primary visual cortex. *Journal of Neuroscience.* <br/>[[pdf]({{baseurl}}/assets/publications/Will23a.pdf){:target="_blank"}, [jneuro](https://www.jneurosci.org/content/43/16/2885.abstract){:target="_blank"}]
+A.M. Williams, **C.F. Angeloni** & M.N. Geffen. (2023) Sound improves neuronal encoding if visual stimuli in mouse primary visual cortex. *Journal of Neuroscience.* <br/>[[pdf]({{baseurl}}/assets/publications/Will23a.pdf){:target="_blank"}, [jneuro](https://www.jneurosci.org/content/43/16/2885.abstract){:target="_blank"}]
 
 
 ### 2022
