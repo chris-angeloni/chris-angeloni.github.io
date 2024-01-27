@@ -11,7 +11,7 @@ redirect-from:
 
 ### 2024
 
-A.T. Lai, G. Espinosa, G.E. Wink, **C.F. Angeloni**, D.A. Dombeck, M.A. MacIver. (2024) A robot-rodent interaction arena with adjustable spatial complexity for ethologically relevant behavioral studies. *Cell Reports.* <br/>[[pdf]({{baseurl}}/assets/publications/Lai24a.pdf){:target="_blank"}, [cellrep](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01682-0){:target="_blank"}]
+A.T. Lai, G. Espinosa, G.E. Wink, **C.F. Angeloni**, D.A. Dombeck, M.A. MacIver. (2024) A robot-rodent interaction arena with adjustable spatial complexity for ethologically relevant behavioral studies. *Cell Reports.* <br/>[[pdf]({{baseurl}}/assets/publications/Lai24a.pdf){:target="_blank"}, [cellrep](https://www.sciencedirect.com/science/article/pii/S2211124723016820){:target="_blank"}]
 
 ### 2023
 
