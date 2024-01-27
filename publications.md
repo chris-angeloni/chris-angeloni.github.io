@@ -9,6 +9,10 @@ redirect-from:
 
  [Google Scholar]({{site.googlescholar}})
 
+### 2024
+
+A.T. Lai, G. Espinosa, G.E. Wink, **C.F. Angeloni**, D.A. Dombeck, M.A. MacIver. (2024) A robot-rodent interaction arena with adjustable spatial complexity for ethologically relevant behavioral studies. *Cell Reports.* <br/>[[pdf]({{baseurl}}/assets/publications/Lai24a.pdf){:target="_blank"}, [cellrep](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01682-0){:target="_blank"}]
+
 ### 2023
 
 **C.F. Angeloni**, W.F. Mlynarski, E. Piasini, A.M. Williams, K.C. Wood, L. Garami, A. Hermundstad & M.N. Geffen. (2023) Dynamics of cortical contrast adaptation predict perception of signals in noise. *Nature Communications.* <br/>[[pdf]({{baseurl}}/assets/publications/Ange23a.pdf){:target="_blank"}, [natcomm](https://www.nature.com/articles/s41467-023-40477-6){:target="_blank"}]
