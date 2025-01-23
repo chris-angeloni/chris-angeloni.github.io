@@ -9,6 +9,10 @@ redirect-from:
 
  [Google Scholar]({{site.googlescholar}})
 
+### 2025
+
+J.S. Collina, G. Erdil, M. Xia, **C.F. Angeloni**, K.C. Wood, J. Seth, K.P. Kording, Y.E. Cohen, M.N. Geffen. (2025) Individual-specific strategies inform category learning. *Scientific Reports.* <br/>[[pdf]({{baseurl}}/assets/publications/Collina25a.pdf){:target="_blank"}, [scirep](https://www.nature.com/articles/s41598-024-82219-8.epdf?sharing_token=gUKzuJtjpaOU_gwI3iEnitRgN0jAjWel9jnR3ZoTv0MEF_jlQnPoQa0RQf9TgYdiudlzNU-UI-RRTqDHtYlG1sVWdaQYTWe5N7PvkLCZE2ZqInR_Ny_Trm81iQ1m_aBRVMAlILQEgDoP_BbK7snJvZazG6GRhCRyaG_T-LEUDzY%3D){:target="_blank"}]
+
 ### 2024
 
 A.T. Lai\*, G. Espinosa\*, G.E. Wink\*, **C.F. Angeloni**\*, D.A. Dombeck, M.A. MacIver. (2024) A robot-rodent interaction arena with adjustable spatial complexity for ethologically relevant behavioral studies. *Cell Reports.* <br/>\*equal contribution<br/>[[pdf]({{baseurl}}/assets/publications/Lai24a.pdf){:target="_blank"}, [cellrep](https://www.sciencedirect.com/science/article/pii/S2211124723016820){:target="_blank"}]
